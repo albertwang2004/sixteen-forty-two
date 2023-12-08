@@ -11,7 +11,7 @@ This is a trainer for guessing the missing card in a deck of cards. The game is 
 
 At the beginning of the game, a standard deck of cards is shuffled, and the bottom card is removed. Your job is to view all of the other cards one at a time, and guess what this bottom card is.
 
-You may only use whatever you can do with your body, including but not limited to counting on your fingers, memorizing values, and communicating with your team. That means no writing down digits, using calculators, etc.
+You may only use your memory, and communicating with your team. That means no writing down digits, using calculators, counting on your fingers, etc.
 
 ## Installation
 
